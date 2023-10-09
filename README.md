@@ -100,8 +100,8 @@ This package is initialized via a configuration see [How To Initialize With Conf
 
 | Requirement | Version |  
 | ----------- | ------- |  
-| PHP         | >=8.0   |  
-| Laravel     | >=9.0   |  
+| PHP         | >=8.1   |  
+| Laravel     | >=10.0   |  
 
 ### Add Composer Package
 

@@ -3,22 +3,17 @@
     "description": "Google Workspace API SDK for Laravel",
     "authors": [
         {
-            "name": "Dillon Wheeler",
-            "email": "dwheeler@gitlab.com",
-            "homepage": "https://gitlab.com/dillonwheeler"
-        },
-        {
-            "name": "Jeff Martin",
-            "email": "jmartin@gitlab.com",
-            "homepage": "https://gitlab.com/jeffersonmartin"
+            "name": "Md. Khurshed Alam Nayem",
+            "email": "csenayeem025@gmail.com",
+            "homepage": "nayeem.dev"
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^8.1",
         "doctrine/annotations": "^1.13",
         "glamstack/google-auth-sdk": "^2.5",
         "illuminate/contracts": "^10.26",
-        "spatie/laravel-package-tools": "^1.9.2",
+        "spatie/laravel-package-tools": "^1.16.1",
         "symfony/options-resolver": "^6.0",
         "symfony/validator": "^6.0"
     },
@@ -27,12 +22,12 @@
         "nunomaduro/larastan": "^2.0.1",
         "orchestra/testbench": "^7.0",
         "pestphp/pest": "^1.21",
-        "pestphp/pest-plugin-laravel": "^1.1",
+        "pestphp/pest-plugin-laravel": "^2.2",
         "phpstan/extension-installer": "^1.1",
         "phpstan/phpstan-deprecation-rules": "^1.0",
         "phpstan/phpstan-phpunit": "^1.0",
         "phpunit/phpunit": "^9.5",
-        "spatie/laravel-ray": "^1.26",
+        "spatie/laravel-ray": "^1.33",
         "pestphp/pest-plugin-mock": "^1.0",
       "ext-dom": "*"
     },
