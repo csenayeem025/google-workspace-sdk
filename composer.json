@@ -17,7 +17,7 @@
         "php": "^8.0",
         "doctrine/annotations": "^1.13",
         "glamstack/google-auth-sdk": "^2.5",
-        "illuminate/contracts": "^9.0",
+        "illuminate/contracts": "^10.26",
         "spatie/laravel-package-tools": "^1.9.2",
         "symfony/options-resolver": "^6.0",
         "symfony/validator": "^6.0"
