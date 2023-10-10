@@ -1,6 +1,7 @@
 {
     "name": "csenayeem025/google-workspace-sdk",
     "description": "Google Workspace API SDK for Laravel",
+    "license": "MIT",
     "authors": [
         {
             "name": "Md. Khurshed Alam Nayem",
