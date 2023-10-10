@@ -21,7 +21,7 @@ The Google Workspace SDK is an open source [Composer](https://getcomposer.org/) 
 | ---------------------------------------------------------------------- | ------------------------------------------------------ |  
 | [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler) | [@dillonwheeler](https://gitlab.com/dillonwheeler)     |  
 | [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)  | [@jeffersonmartin](https://gitlab.com/jeffersonmartin) |
-| [Khurshed Alam Nayem](https://www.nayeem.dev)                          | [@csenayeem025](https://gitlab.com/csenayeem025)       |  
+| [Khurshed Alam Nayem](https://www.nayeem.dev)                          | [@csenayeem025](https://github.com/csenayeem025)       |  
 
 ### How It Works
 
