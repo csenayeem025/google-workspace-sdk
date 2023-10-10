@@ -8,7 +8,6 @@ The Google Workspace SDK is an open source [Composer](https://getcomposer.org/) 
 >
 > Please use at your own risk and create issues for any bugs that you encounter.
 >
-> We do not maintain a roadmap of community feature requests, however we invite you to contribute and we will gladly review your merge requests.
 
 ## Dependencies
 
@@ -18,10 +17,11 @@ The Google Workspace SDK is an open source [Composer](https://getcomposer.org/) 
 
 ### Maintainers
 
-| Name                                                                   | GitLab Handle                                          |  
+| Name                                                                   | Developers                                             |  
 | ---------------------------------------------------------------------- | ------------------------------------------------------ |  
 | [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler) | [@dillonwheeler](https://gitlab.com/dillonwheeler)     |  
-| [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)  | [@jeffersonmartin](https://gitlab.com/jeffersonmartin) |  
+| [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)  | [@jeffersonmartin](https://gitlab.com/jeffersonmartin) |
+| [Khurshed Alam Nayem](https://www.nayeem.dev)                          | [@csenayeem025](https://gitlab.com/csenayeem025)       |  
 
 ### How It Works
 
